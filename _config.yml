@@ -1,0 +1,33 @@
+# Site settings
+title: ""
+email: gustavoajz@gmail.com
+description: "Gustavo Ajzenman's Blog"
+baseurl: ""
+url: "http://gusajz.github.io"
+title_description: "Gustavo's Blog"
+title_image: "http://www.gravatar.com/avatar/ea4c91f99b6f0167a5fef7bbfae65b20?s=500&d=mm"
+google_analytics: "UA-72547719-1"
+disqus_account: gusajz
+github_repository: https://github.com/gusajz/gusajz.github.io
+addthis_id: ra-569bc6952a56a3cd
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: gusajz
+github_username:  gusajz
+linkedin_link: https://ar.linkedin.com/in/gustavoajzenman/
+google_plus_link: https://plus.google.com/u/0/101719155728984165637
+# stackoverflow_link: http://carte-noire.jacobtomlinson.co.uk/
+
+# Footer
+footer_left: "By <a href=\"https://twitter.com/gusajz\">Gustavo Ajzenman</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/gusajz/gusajz.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+permalink: pretty
+exclude: [vendor]
+
+
