@@ -90,6 +90,7 @@ To do so, it is enough to make some minor modifications to the *go* code of the 
       // unique hash for the file
       hash_ := hash(mount, build.Branch, job.Environment)
       fmt.Println("Restoring cache", mount)
+  ...
 ```
 
 The full code is in: (https://github.com/gusajz/drone-cache/)
