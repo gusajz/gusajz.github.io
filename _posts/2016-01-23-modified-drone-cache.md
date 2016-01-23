@@ -11,7 +11,7 @@ tags:
  - docker
 ---
 
-Heads up! this may not be a good idea on every situation, but it is useful sometimes still.
+Heads up! this may not be a good idea on every situation, but it is still useful sometimes.
 
 In a [previous post]({% post_url 2016-01-23-build-cache %}) we talk about caching some directories to speed up builds. 
 
