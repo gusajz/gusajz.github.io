@@ -39,3 +39,5 @@ _site/
 .sass-cache/
 .jekyll-metadata
 *.lock
+
+vendor/
